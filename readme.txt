@@ -3,7 +3,7 @@ Developed by: qTranslate Team
 Contributors: johnclause, liedekef
 Tags: multilingual, language, bilingual, i18n, l10n, multilanguage, translation, Events Made Easy
 Requires at least: 4.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv3 or later
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QEXEK3HX8AR6U
